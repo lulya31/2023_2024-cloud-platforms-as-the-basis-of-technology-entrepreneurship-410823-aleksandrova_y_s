@@ -1,12 +1,12 @@
 University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FICT](https://fict.itmo.ru)
 Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link
-Year: 2023/2024
+Year: 2024/2025
 Group: U4225
-Author: Filianin Ivan Victorovich
+Author: Aleksandrova Yulia Sergeevna
 Lab: Lab1
-Date of create: 20.09.2023
-Date of finished: 31.09.2023
+Date of create: 21.10.2024
+Date of finished: 21.10.2024
 
 Весь отчет представлен на скриншотах в папке **img_lab1**.
 1) Создан service account с ролью Storage Admin (yaleksandrova-sa-lab1).
